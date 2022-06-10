@@ -1,0 +1,14 @@
+{
+    "recipes": {
+        "spatricius/slack-unfurl-bundle": [
+            "1.0"
+        ]
+    },
+    "branch": "master",
+    "is_contrib": true,
+    "_links": {
+        "repository": "github.com/spatricius/recipes",
+        "origin_template": "{package}:{version}@github.com/spatricius/recipes:master",
+        "recipe_template": "https://api.github.com/repos/spatricius/recipes/contents/{package_dotted}.{version}.json"
+    }
+}
