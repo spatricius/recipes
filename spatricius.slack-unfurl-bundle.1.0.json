@@ -1,0 +1,21 @@
+{
+    "manifests": {
+        "spatricius/slack-unfurl-bundle": {
+            "manifest": {
+                "env": {
+                    "###> spatricius/slack-unfurl-bundle ###",
+                    "SLACK_APP_TOKEN": "",
+                    "SLACK_APP_ID": "",
+                    "SLACK_REQUEST_TOKEN": "",
+                    "SLACK_ACCESSORY_IMAGE_URL": "",
+                    "SLACK_ACCESSORY_ALT_TEXT": "",
+                    "GITLAB_TOKEN": "",
+                    "GITLAB_API_URL": "",
+                    "GITLAB_DOMAIN": "",
+                    "###< spatricius/slack-unfurl-bundle ###"
+                },
+            },
+            "ref": "aac2ef5bfb0e5f3ecde5da2e1406532774c276fc"
+        }
+    }
+}
